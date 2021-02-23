@@ -37,14 +37,14 @@ const data = () => ({
     },
     {
       label: 'Portafolio',
-      route: '/portafolio',
+      route: '/portfolio',
     },
     {
-      label: 'About',
+      label: 'Acerca',
       route: '/about',
     },
     {
-      label: 'Contact',
+      label: 'Contactame',
       route: '/contact',
     },
   ],
