@@ -1,5 +1,5 @@
 <template>
-  <img class="logo w-12" src="/awesome.svg" alt="Logo" />
+  <img class="logo w-10" src="/awesome.svg" alt="Logo" />
 </template>
 
 <style>
