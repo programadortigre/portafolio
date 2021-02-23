@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
+      <Logo class="mx-auto" />
       <h1 class="title m-4 text-xl font-display font-bold text-teal-500">
         Mi portafolio molón
       </h1>
