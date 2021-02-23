@@ -1,12 +1,5 @@
 <template>
-  <div class="container">
-    <div>
-      <Logo />
-      <h1 class="title m-4 text-xl font-display font-bold text-teal-500">
-        Mi portafolio molón
-      </h1>
-    </div>
-  </div>
+  <div class="container"></div>
 </template>
 
 <script>

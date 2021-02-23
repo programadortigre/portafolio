@@ -1,11 +1,10 @@
 <template>
-  <img class="logo w-10" src="/awesome.svg" alt="Logo" />
+  <img class="logo w-10 h-10" src="/awesome.svg" alt="Logo" />
 </template>
 
 <style>
 .logo {
   animation: 1s appear;
-  margin: auto;
 }
 
 @keyframes appear {
