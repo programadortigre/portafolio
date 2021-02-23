@@ -27,8 +27,4 @@ export default {
 };
 </script>
 
-<style>
-.nuxt-content h1 {
-  @apply;
-}
-</style>
+<style></style>
