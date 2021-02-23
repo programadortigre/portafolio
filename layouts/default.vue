@@ -1,14 +1,16 @@
 <template>
   <div class="app">
     <Toolbar />
-    <Nuxt />
+    <div class="max-w-6xl mx-auto pt-24">
+      <Nuxt class="px-8" />
+    </div>
   </div>
 </template>
 
 <style>
 html {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
